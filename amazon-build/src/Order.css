@@ -1,0 +1,28 @@
+.order {
+    padding: 40px;
+    margin: 20px 0;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+    max-width: 100%;
+}
+
+.order_id {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+  }
+
+  .order_total {
+    font-weight: 500;
+    text-align: right;
+  }  
+
+
+  @media screen and (max-width: 26.875em) { 
+    .order {
+        margin: 0;
+        max-width: 600px;
+        overflow: hidden;
+      }
+  }

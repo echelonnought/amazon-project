@@ -1,0 +1,2 @@
+export const ip = 'https://amazon-stripe-backend.herokuapp.com';
+export const stripePublishableKey = 'pk_test_51HMwubEaasUKuzWBX1SnBIQ0tZTRzhEp2XGZ9HCQlAwQRxkKll8GOqEhvGuPETyE3uo71QBgieevA8jh5fmzcHkw003mMQ0uP6';
