@@ -22,8 +22,8 @@ Users can create an account, make a purchase and their orders will be placed aft
 ## Features
 - User login and Sign Up Functionalities
 - Add items to basket functionality
+- Removing items from basket functionality
 - Routing to home page, checkout page and orders page
-- Back
 
 
 
